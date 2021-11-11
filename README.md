@@ -4,3 +4,5 @@ This repository contains code for a group project focussed on image-based anomal
 
 The Airbus data used in this work can be found here:
 https://www.research-collection.ethz.ch/handle/20.500.11850/415151
+
+Because of the large file size, the original .h5 files are omitted from this repository.
