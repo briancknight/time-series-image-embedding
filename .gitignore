@@ -20,7 +20,7 @@ ipython_config.py
 
 # Data types
 .h5
-
+.npy
 # Distribution / packaging
 .Python
 build/
